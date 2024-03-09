@@ -1,3 +1,10 @@
+# For Review
+Walkthrough Video: https://youtu.be/CN5VWidC-NA?si=e-pWad8WJp3t3Utp
+
+Readme sample has been pushed and is in repository
+
+Git Repository: https://github.com/Rashuneagle/Node.js-Challenge/
+
 # 09 Node.js Challenge: Professional README Generator
 
 ## Your Task
